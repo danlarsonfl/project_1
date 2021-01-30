@@ -1,14 +1,18 @@
 # project_1
 UCF Databoot Camp - Project 1
 
-We will be exploring the Spotify API to gain insight on the popularity of various artists. 
+Project Title: Artist, song, and danceability popularity based on different Spotify datasets.
 
-https://developer.spotify.com/documentation/web-api/
+Team Members: Corrie, Dan, Phillip
 
-We will reference the Spotify JSON Object Docs in order to understand the layout of the API. 
+Project Description: We will be exploring different Spotify datasets to gain insight on the popularity of various artists, songs, and danceability.
 
-https://developer.spotify.com/documentation/web-api/reference/#objects-index
+Research Questions to Answer: 
+    1. The more popular a song, the more danceable it is.
+    2. The more popular an artist, the more danceable their music.
 
-We will need to properly Authorize the API prior to accessing the data.
+Datasets to be Used: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_year.csv
 
-https://developer.spotify.com/documentation/general/guides/authorization-guide/
+Rough Breakdown of Tasks:
+    1. First we will look at cleaning/merging data.
+    2. Run statistical analysis on the cleaned data to prove or disprove our hypothesis.
