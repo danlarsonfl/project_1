@@ -17,3 +17,5 @@ Rough Breakdown of Tasks:
     1. First we will look at cleaning/merging data.
     2. Run statistical analysis on the cleaned data to prove or disprove our hypothesis.
     
+    
+Presentation slides://docs.google.com/presentation/d/1hBTggaQwEB7VJ2A49iZBv7Or4iqwVIZcfr8sRvv11PI/edit?usp=sharing
